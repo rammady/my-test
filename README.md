@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Modifying to test merge conflict 
 
+=======
+Adding something to test in github file merge conflict .
+>>>>>>> bdd993b04f1500d59f15e66f7e0c130626430c6d
 Headphones Don't show up as a Playback Device - Microsoft Community
 https://answers.microsoft.com/.../windows/.../windows.../headphones...playback-devic...
 Jul 27, 2013 - 11 posts - ‎3 authors
